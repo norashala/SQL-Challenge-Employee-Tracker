@@ -1,4 +1,4 @@
-##Employee Database Manager
+#Employee Database Manager
 
 This is a simple command-line tool to help you manage your company's employee information. You can view and edit departments, roles, and employees easily.
 
